@@ -1,7 +1,7 @@
 {
     "name": "angular-bare-essentials",
     "displayName": "Angular Bare Essentials",
-    "description": "Essential extensions for Angular developers",
+    "description": "Bare essential extensions for Angular developers",
     "icon": "images/angular.png",
     "galleryBanner": {
         "color": "#263238",
