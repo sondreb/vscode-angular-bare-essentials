@@ -1,13 +1,13 @@
 {
-    "name": "angular-essentials",
-    "displayName": "Angular Essentials",
+    "name": "angular-bare-essentials",
+    "displayName": "Angular Bare Essentials",
     "description": "Essential extensions for Angular developers",
-    "icon": "images/angular-shield.png",
+    "icon": "images/angular.png",
     "galleryBanner": {
         "color": "#0273D4",
         "theme": "dark"
     },
-    "license": "SEE LICENSE IN LICENSE.md",
+    "license": "SEE LICENSE IN LICENSE",
     "repository": {
         "type": "git",
         "url": "https://github.com/johnpapa/vscode-angular-essentials.git"
@@ -19,8 +19,8 @@
         "TypeScript",
         "HTML"
     ],
-    "version": "0.3.0",
-    "publisher": "johnpapa",
+    "version": "1.0.0",
+    "publisher": "sondreb",
     "engines": {
         "vscode": "^1.12.0"
     },
@@ -28,15 +28,9 @@
         "Extension Packs"
     ],
     "extensionDependencies": [
-        "johnpapa.Angular2",
         "Angular.ng-template",
-        "EditorConfig.EditorConfig",
         "eg2.tslint",
-        "msjsdiag.debugger-for-chrome",
         "christian-kohler.path-intellisense",
-        "natewallace.angular2-inline",
-        "PKief.material-icon-theme",
-        "johnpapa.winteriscoming",
-        "esbenp.prettier-vscode"
+        "PKief.material-icon-theme"
     ]
 }
