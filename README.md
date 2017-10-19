@@ -1,7 +1,7 @@
 # Angular Bare Essentials for VS Code
 This extension pack for Visual Studio Code adds a bare minimum of useful tools for Angular development.
 
-Install [Angular Bare Essentials](https://marketplace.visualstudio.com/items?itemName=sondreb.angular-base-essentials) now.
+Install [Angular Bare Essentials](https://marketplace.visualstudio.com/items?itemName=brain.angular-bare-essentials) now.
 
 ## Why make this fork?
 

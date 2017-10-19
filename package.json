@@ -4,13 +4,13 @@
     "description": "Essential extensions for Angular developers",
     "icon": "images/angular.png",
     "galleryBanner": {
-        "color": "#0273D4",
+        "color": "#263238",
         "theme": "dark"
     },
     "license": "SEE LICENSE IN LICENSE",
     "repository": {
         "type": "git",
-        "url": "https://github.com/johnpapa/vscode-angular-essentials.git"
+        "url": "https://github.com/sondreb/vscode-angular-bare-essentials.git"
     },
     "keywords": [
         "Angular",
@@ -19,8 +19,8 @@
         "TypeScript",
         "HTML"
     ],
-    "version": "1.0.0",
-    "publisher": "sondreb",
+    "version": "1.0.2",
+    "publisher": "brain",
     "engines": {
         "vscode": "^1.12.0"
     },
