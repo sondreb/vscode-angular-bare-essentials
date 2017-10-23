@@ -19,7 +19,7 @@
         "TypeScript",
         "HTML"
     ],
-    "version": "1.0.2",
+    "version": "1.0.3",
     "publisher": "brain",
     "engines": {
         "vscode": "^1.12.0"
@@ -30,7 +30,6 @@
     "extensionDependencies": [
         "Angular.ng-template",
         "eg2.tslint",
-        "christian-kohler.path-intellisense",
-        "PKief.material-icon-theme"
+        "christian-kohler.path-intellisense"
     ]
 }

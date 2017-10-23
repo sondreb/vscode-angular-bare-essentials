@@ -9,19 +9,7 @@ This extension is a fork of the "[Angular Essentials](https://github.com/johnpap
 
 Some extensions in the Angular Essentials package is sometime a bit problematic, and they cannot be individually uninstalled or disabled when the pack is installed.
 
-## What is removed from the original?
-
-* **Debugger for Chrome**
-This can sometimes make both Chrome and VS Code freeze and hang.
-
-* **EditorConfig for VS Code**
-Only supports a few properties of the .editorConfig, and using VS Code settings makes this obsolete.
-
-* **Winter is Coming Theme**
-The pack shouldn't include any theme.
-
-* **Prettier - JavaScript formatter**
-VS Code have extensive support for customizing formatting and this extension took over for the built-in formatting support in VS Code.
+## Changes
 
 See the [CHANGELOG](CHANGELOG.md) for the latest changes
 
@@ -31,4 +19,27 @@ Note: Original source was not properly licensed, only mention of license was to 
 
 Here is the list of extensions the pack includes:
 
-[Angular Language Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template), [tslint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint), [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense), [Angular Material Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+[Angular Language Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template), [tslint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint), [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
+
+## Development
+
+First install the publish tool:
+
+```
+npm install -g vsce
+```
+
+
+Publish command:
+
+```
+vsce publish
+```
+
+Package without publish command:
+
+```
+vsce package
+```
+
+More information: https://code.visualstudio.com/docs/extensions/publish-extension
