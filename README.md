@@ -19,7 +19,7 @@ Note: Original source was not properly licensed, only mention of license was to 
 
 Here is the list of extensions the pack includes:
 
-[Angular Language Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template), [tslint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint), [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
+[Angular Language Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template), [tslint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint), [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense), [Sort lines](https://marketplace.visualstudio.com/items?itemName=Tyriar.sort-lines), [Angular v5 Snippets](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2)
 
 ## Development
 
