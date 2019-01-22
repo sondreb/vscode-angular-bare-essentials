@@ -32,6 +32,9 @@
         "eg2.tslint",
         "christian-kohler.path-intellisense",
         "johnpapa.Angular2",
-        "Tyriar.sort-lines"
+        "Tyriar.sort-lines",
+        "editorconfig.editorconfig",
+        "natewallace.angular2-inline",
+        "msjsdiag.debugger-for-chrome"
     ]
 }
